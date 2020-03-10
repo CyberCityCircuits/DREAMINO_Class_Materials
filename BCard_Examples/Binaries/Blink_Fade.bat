@@ -1,0 +1,1 @@
+C:\Users\DREAM\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/bin/avrdude -CC:\Users\DREAM\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17/etc/avrdude.conf -v -patmega328p -carduino -PCOM6 -b57600 -D -Uflash:w:C:\Users\DREAM\Documents\GitHub\DREAMINO_Class_Materials\BCard_Examples\BinariesBlink_Fade.ino.hex:i 
